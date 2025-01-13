@@ -34,7 +34,7 @@ const Navbar = () => {
             whileHover={{ scale: 1.02 }}
             whileTap={{ scale: 0.98 }}
           >
-            <p className="text-[26px] font-extrabold text-white max-sm:hidden relative">
+            <p className="text-[26px] font-extrabold text-blue-500 max-sm:hidden relative">
               MeetVerse
               <span className="absolute -bottom-1 left-0 w-0 h-[2px] bg-blue-500 transition-all duration-300 group-hover:w-full"></span>
             </p>

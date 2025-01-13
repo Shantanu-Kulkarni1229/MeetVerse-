@@ -13,9 +13,10 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "MeetVerse",
   description: "Video calling App",
-  // icons: {
-  //   icon: "/icons/logo.svg",
-  // },
+  icons: {
+    icon: "/icons/video.svg",
+    
+  },
 };
 
 export default function RootLayout({
